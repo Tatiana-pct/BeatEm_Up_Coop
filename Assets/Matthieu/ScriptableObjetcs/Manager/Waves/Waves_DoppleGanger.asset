@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23ec3c468e19e654bb51a45c14ae5088, type: 3}
+  m_Name: Waves_DoppleGanger
+  m_EditorClassIdentifier: 
+  _ennemyCount: 4
+  _ennemyTypes:
+  - {fileID: 6714316916929057794, guid: 0d33ed90a4a160c4ab7ee6ba26a45acf, type: 3}

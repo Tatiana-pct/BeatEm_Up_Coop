@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c678d95ad210ef94394782e66e41ead9, type: 3}
+  m_Name: PlayerManager
+  m_EditorClassIdentifier: 
+  _maxHealth: 5
+  _currentHealth: 5
+  _maxLifeCount: 2
+  _currentLifeCount: 2
+  _respawnTime: 1
+  _recoverTime: 0
+  _comboTime: 0
+  _attackTime: 0.5
+  _invicibleDuration: 1
+  _knockbackForce: 2
+  _knockbackDuration: 0.5
+  _knockbackEasing:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 43.197445
+      outSlope: 43.197445
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.123780034
+      value: 5.346981
+      inSlope: -30.279041
+      outSlope: -30.279041
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.121149436
+      outWeight: 0.019035527
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: -2.7353432
+      outSlope: -2.7353432
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.09174498
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _score: 11690
