@@ -17,4 +17,4 @@ to download it:
 https://lvl-up.itch.io/beatem-up
 
 To play it:
-link to come
+https://lvl-up.itch.io/beatem-up
