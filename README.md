@@ -13,8 +13,7 @@ Offensive
 Some environment elements are destructible and it is possible to collect items to score
 Multiplayer in development, coming soon.
 
-to download it:
+To download it and/or to Play it:
 https://lvl-up.itch.io/beatem-up
 
-To play it:
-https://lvl-up.itch.io/beatem-up
+
